@@ -1,0 +1,4 @@
+#.travis.yaml
+language: dart
+script:
+  - dart main.dart
